@@ -1,0 +1,34 @@
+#ads{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+}
+
+.forms{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+input{
+    padding: 6px 10px;
+}
+
+table{
+    margin: 10px auto;
+    border-collapse: collapse;
+}
+th{
+    padding: 6px 10px;
+}
+.trash{
+    cursor: pointer;
+    
+}
+.trash:hover{bearbb
